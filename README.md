@@ -1,6 +1,6 @@
 Ali Al Najjar <img src="icon30.png">
 -
-###### Full Stack web developer in the making 
+<p> Full Stack web developer in the making </p>
 
 My Story
 -
