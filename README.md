@@ -1,4 +1,4 @@
-Ali Al Najjar <img src="icon30.png">
+Ali Al Najjar
 -
 <p> Full Stack web developer in the making </p>
 
