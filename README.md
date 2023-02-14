@@ -1,5 +1,6 @@
 Ali Al Najjar
 -
+Full Stack web developer in the making <img src="https://icons8.com/icon/78460/developer-mode">
 My Story
 -
 
@@ -18,6 +19,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Thank you and have fun 
+
 
 ###
