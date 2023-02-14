@@ -1,4 +1,7 @@
-### Hi there, I am Ali Najjar 👋
+# Ali Najjar
+# ------------
+# My Story
+# ------------ 
 
 <!--
 **aliynajjar/aliynajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +20,4 @@ Here are some ideas to get you started:
 
 ### Thank you and have fun 
 
-### <iframe src="https://openprocessing.org/sketch/426667/embed/" width="400" height="400"></iframe>
+###
