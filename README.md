@@ -12,6 +12,7 @@ My resolution is to refine my coding skills until I become a succefull Full Stac
 
 <img style="height:250px;" src="refinement.webp">
 
+
 <!--
 **aliynajjar/aliynajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
