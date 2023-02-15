@@ -1,6 +1,7 @@
 Ali Al Najjar
 -
 <p> Full Stack web developer in the making </p>
+
 My Story
 -
 In 2011, I decided to study Finance and become an accountant / financial advisor. I started my journey with accountability until I discovered Microsoft Access then everything changed! I dropped all my courses and changed my major to Information Technology and Computing.
