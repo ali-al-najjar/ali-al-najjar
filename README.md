@@ -10,7 +10,7 @@ And Here we go! I worked on a lot of projects (mainly websites) using content ma
 
 My resolution is to refine my coding skills until I become a succefull Full Stach Web Developer 
 
-<img style="height:250px;" src="failure-success.gif">
+<img style="height:250px;" src="refinement.webp">
 
 <!--
 **aliynajjar/aliynajjar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
