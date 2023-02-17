@@ -8,7 +8,7 @@ In 2011, I decided to study Finance and become an accountant / financial advisor
 
 And Here we go! I worked on a lot of projects (mainly websites) using content management systems such as Drupal 7,8,9 and Wordpress. I also worked on combining between Drupal and Atomic Design systems such as Pattern Lab.
 
-My resolution is to refine my coding skills until I become a succefull Full Stach Web Developer 
+My resolution is to refine my coding skills until I become a successfull Full Stach Web Developer 
 
 <img style="height:250px;" src="front-end-development.gif">
 
