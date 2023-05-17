@@ -1,6 +1,6 @@
 <h3>Ali Al Najjar <img src="icons-15.png"><h3>
--
-<h2> Full Stack web developer </h2>
+
+<h4> Full Stack web developer </h4>
 
 My Story
 -
