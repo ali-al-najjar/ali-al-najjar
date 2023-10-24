@@ -1,14 +1,6 @@
 <h3>Ali Al Najjar <img src="icons-15.png"><h3>
 
-<h4> Full Stack web developer </h4>
-
-My Story
--
-In 2011, I decided to study Finance and become an accountant / financial advisor. I started my journey with accountability until I discovered Microsoft Access then everything changed! I dropped all my courses and changed my major to Information Technology and Computing.
-
-And Here we go! I worked on a lot of projects (mainly websites) using content management systems such as Drupal 7,8,9 and Wordpress. I also worked on combining between Drupal and Atomic Design systems such as Pattern Lab.
-
-My resolution is to refine my coding skills until I become a successfull Full Stach Web Developer 
+<h4> Full Stack web developer </h4> 
 
 <img style="height:100%;" src="coding.gif">
 
